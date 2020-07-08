@@ -1,0 +1,23 @@
+.blog-card {
+    background-color: whitesmoke;
+    padding: 50px 100px 50px 100px;
+    margin: 50px 300px 50px 300px;
+    box-shadow: 5px 5px 10px #d0d0d0,
+    -5px -5px 10px #ffffff;
+}
+
+.blog-date {
+    margin-bottom: 40px;
+}
+
+h4 {
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+
+@media screen and (max-width: 800px) {
+    .blog-card {
+        margin: 20px;
+        padding: 20px;
+    }
+}
