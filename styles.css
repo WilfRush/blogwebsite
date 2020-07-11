@@ -132,8 +132,9 @@ nav {
     text-align: center;
   }
   .logo {
-    height: 80px;
-    width: 200px;
+    width: 80px;
+    height: 180px;
+  }
 }
 
 .navbar {
