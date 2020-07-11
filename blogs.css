@@ -21,3 +21,16 @@ h4 {
         padding: 20px;
     }
 }
+
+.blog-title {
+    text-decoration: underline;
+}
+
+.product-link {
+    text-decoration: underline !important;
+}
+
+.product-link:hover {
+    text-decoration: underline !important;
+    color: black;
+}
