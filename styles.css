@@ -23,6 +23,7 @@ body {
   border-bottom: 2px solid black;
   box-shadow: black 0px 0px 20px 1px;
   margin-bottom: 30px;
+  position: sticky;
 }
 
 nav {
