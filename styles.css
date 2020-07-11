@@ -119,6 +119,7 @@ nav {
   .fakeimg {
     height: 200px;
     width: 100%;
+    margin-left: 5px;
   }
   #blog {
     display: flex;
