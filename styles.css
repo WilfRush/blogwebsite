@@ -103,6 +103,10 @@ nav {
     width: 100%;
     padding: 0;
   }
+  
+  .card {
+    margin-left: 0px !important;
+    margin-right: 0px !important;
 
   .header {
     text-align: center;
