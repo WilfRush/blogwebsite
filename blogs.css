@@ -34,3 +34,7 @@ h4 {
     text-decoration: underline !important;
     color: black;
 }
+
+ol, ul {
+    margin: 10px;
+}
